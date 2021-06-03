@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact list of the French army in Flanders, commanded by the Duke of Luxemburg; who acts the defensive part against the confederate army, commanded by the King of Great Britain. As it was drawn up in two lines at Brain la Compte, June 21. 1691 S.N. Licens'd, June 17th. 1691 James Fraiser.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22676</idno><idno type="EEBO-CITATION">99890537</idno>
+  <idno type="VID">188720</idno>
+  <idno type="EEBO-PROQUEST">2248551837</idno>
+  
+            <idno type="OCLC"> 18425660</idno>
+            <idno type="STC">Wing E3655</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[99]</idno>
+            <idno type="STC">ESTC R39518</idno>
+            <idno type="PROQUEST">ocm99890537</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890537e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188720)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[100])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact list of the French army in Flanders, commanded by the Duke of Luxemburg; who acts the defensive part against the confederate army, commanded by the King of Great Britain. As it was drawn up in two lines at Brain la Compte, June 21. 1691 S.N. Licens'd, June 17th. 1691 James Fraiser.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Hayhurst, at the Axe in Little-Brittain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy catalogued is torn at edge with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History, Military --  1643-1715 --  Early works to 1800.</term>
+               <term type="geographic_name">Flanders --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188720:1"/>
+            <head>An Exact LIST OF THE <hi>French Army in Flanders,</hi> Commanded by the Duke of <hi>Luxemburg;</hi> who Acts the Defensive Part against the <hi>Confederate Army,</hi> Commanded by the <hi>King of Great Britain.</hi>
+            </head>
+            <head type="sub">As it was Drawn up in Two Lines, at <hi>Brain la Compte,</hi> June 21. 1691. <hi>S. N.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENS'D,</p>
+                        <closer>
+                           <dateline>
+                              <date>June <hi>17th.</hi> 1691.</date>
+                           </dateline>
+                           <signed>JAMES FRAISER.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <list>
+                  <head>The Right Wing.</head>
+                  <item>
+                     <list>
+                        <head>Horse Squadrons, First Line.</head>
+                        <item>Horse Granadiers Sqaudr. 1</item>
+                        <item>Navilles Sqaudr. 2</item>
+                        <item>Duraz Sqaudr. 2</item>
+                        <item>Luxemburg Sqaudr. 2</item>
+                        <item>Lorge Sqaudr. 2</item>
+                        <item>The King's Gendarmes Sqaudr. 1</item>
+                        <item>The King's Light-Horse Sqaudr. 1</item>
+                        <item>Chartres Sqaudr. 2</item>
+                        <item>Dumaine Sqaudr. 2</item>
+                        <item>Quoad Sqaudr. 3</item>
+                        <item>Daubusson Sqaudr. 2</item>
+                        <item>Praslin Sqaudr. 2</item>
+                        <item>Royal German Sqaudr. 3</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Foot Battalions, First Line.</head>
+                        <item>Navarre Battal. 2</item>
+                        <item>Dauphin Battal. 2</item>
+                        <item>The Queens Regiment Battal. 2</item>
+                        <item>Provence Battal. 1</item>
+                        <item>French Guards Battal. 4</item>
+                        <item>Swiss Guards Battal. 2</item>
+                        <item>Thoulouse Battal. 1</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>The Left Wing.</head>
+                  <item>
+                     <list>
+                        <head>Foot Battalions, First Line.</head>
+                        <item>Humieres Battal. 1</item>
+                        <item>The Marine Battal. 2</item>
+                        <item>The Kings Battal. 3</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Horse Squadrons, First Line.</head>
+                        <item>Bourgogne Squadr. 3</item>
+                        <item>Furstemberg Squadr. 2</item>
+                        <item>Roham Squadr. 2</item>
+                        <item>Carabiners Squadr. 7</item>
+                        <item>Leo Maria Squadr. 3</item>
+                        <item>Rocquelaure Squadr. 2</item>
+                        <item>Maistre de Camp Squadr. 3</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>The Right Wing.</head>
+                  <item>
+                     <list>
+                        <head>Horse Squadrons, Second Line.</head>
+                        <item>Royal Roussillon Squadr 3</item>
+                        <item>Rassan Squadr 3</item>
+                        <item>Leny Squadr 3</item>
+                        <item>Durozel Squadr 3</item>
+                        <item>Fienne Squadr 3</item>
+                        <item>Courtebonne Squadr 3</item>
+                        <item>Langalerie Squadr 3</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Foot Battalions, Second Line.</head>
+                        <item>Royal Roussillon Battal 2</item>
+                        <item>Greder Switsers Battal 3</item>
+                        <item>St. Lauranso Battal 1</item>
+                        <item>Paicher Battal 3</item>
+                        <item>Greder Duytsers Battal 2</item>
+                        <item>The Young Stoupa Battal 3</item>
+                        <item>The Old Stoupa Battal 3</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Horse Squadrons, Second Line.</head>
+                        <item>Massot Squadr. 3</item>
+                        <item>Novailles Squadr. 3</item>
+                        <item>Rotemburg Squadr. 3</item>
+                        <item>Rissy Squadr. <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                        <item>St. Simon Squadr. <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                        <item>Pricomptal Squadr. <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>The Left Wing.</head>
+                  <item>
+                     <list>
+                        <head>Horse Squadrons, Second Line.</head>
+                        <item>Royal Piemont Squadr. 3</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Dragons.</head>
+                        <item>King's Royal Dragons <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                        <item>Dauphin <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                        <item>Tesse <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                        <item>Asphel <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                        <item>The Two Battalions of Fuzeliers, move from several Parts of the Camp, as Mareschal <hi>Luxemburg</hi> thinks fit▪ <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Hayhurst,</hi> at the <hi>Axe</hi> in <hi>Little-Britain,</hi> 1691.</p>
+            <pb facs="tcp:188720:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
